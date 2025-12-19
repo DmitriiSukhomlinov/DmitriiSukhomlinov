@@ -2,7 +2,7 @@
 
 ### :guitar: About me:
 
- - :four_leaf_clover: 31 y.o. developer, aiming to bring something good to this world
+ - :four_leaf_clover: 32 y.o. developer, aiming to bring something good to this world
  - :computer: I've been dabbling in software development since around 2017
  - :mortar_board: Novosibirsk State University, Bachelor's Degree in Math and Computer Science
  
